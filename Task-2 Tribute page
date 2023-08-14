@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dr. Abdul Kalam - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f1f1f1;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dr. Abdul Kalam</h1>
+    </header>
+
+    <div class="container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/A._P._J._Abdul_Kalam.jpg" alt="Dr. Abdul Kalam">
+
+        <h2>About Me</h2>
+        <p>
+            Dr. Abdul Kalam was a renowned Indian scientist and the 11th President of India. Born on October 15, 1931, in Rameswaram, Tamil Nadu, he made significant contributions to the field of aerospace engineering and played a crucial role in India's space and missile development programs.
+        </p>
+        <p>
+            Dr. Kalam was a visionary leader known for his dedication to education, youth empowerment, and national development. He strongly believed in harnessing the power of science and technology for the progress of the nation. His inspirational speeches and books continue to motivate millions of people around the world.
+        </p>
+        <p>
+            Apart from his scientific achievements, Dr. Abdul Kalam was a humble and down-to-earth person. He had a deep love for teaching and spent a considerable amount of time interacting with students, encouraging them to dream big and work hard to achieve their goals.
+        </p>
+        <p>
+            Dr. Kalam received numerous awards and honors, including the Bharat Ratna, India's highest civilian award. He left an indelible mark on the world with his remarkable contributions and remains an inspiration for generations to come.
+        </p>
+        <p>
+          After graduating from the Madras Institute of Technology in 1960, Dr. Abdul Kalam embarked on a remarkable career in the field of aerospace engineering and research. He joined                        the Aeronautical Development Establishment of the Defence Research and Development Organisation (DRDO) as a scientist, becoming a member of the Defence Research & Development Service (DRDS). Although he initially started by designing a small hovercraft, he felt a calling beyond his work at DRDO.
+</p>
+<p>
+Dr. Kalam then joined the INCOSPAR, where he had the opportunity to work under the guidance of the renowned space scientist, Vikram Sarabhai. Later, he was recruited into the Indian Space Research Organisation (ISRO) by H. G. S. Murthy, the first Director of Thumba Equatorial Rocket Launching Station (TERLS). In 1969, he took on the role of project director for India's first Satellite Launch Vehicle (SLV-III) at ISRO, which successfully deployed the Rohini satellite in near-earth orbit in July 1980. Remarkably, Dr. Kalam had already started working on an expandable rocket project independently at DRDO in 1965.
+</p>
+<p>
+Throughout his career, Dr. Kalam made significant contributions to various projects and initiatives. He visited prestigious research centers such as NASA's Langley Research Center and Goddard Space Flight Center to gain knowledge and insights. He focused on developing projects like the Polar Satellite Launch Vehicle (PSLV) and the SLV-III, both of which proved to be successful.
+</p>
+<p>
+Dr. Kalam's expertise also extended to the realm of missile development. He directed projects like Project Devil and Project Valiant, aiming to create ballistic missiles based on the technology derived from the successful SLV programme. Despite initial disapproval from the Union Cabinet, Prime Minister Indira Gandhi allocated secret funds for these classified aerospace projects under Dr. Kalam's leadership. He played a crucial role in convincing the Cabinet to keep the true nature of these projects concealed.
+</p>
+<p>
+In recognition of his exceptional research and educational leadership, the government initiated the Integrated Guided Missile Development Programme (IGMDP) under Dr. Kalam's directorship. This advanced missile program involved the simultaneous development of a range of missiles, including Agni, an intermediate-range ballistic missile, and Prithvi, a tactical surface-to-surface missile. While these projects faced criticism for mismanagement and cost and time overruns, they showcased Dr. Kalam's dedication to advancing India's technological capabilities.
+</p>
+<p>
+Dr. Abdul Kalam's illustrious career in aerospace engineering, his contributions to space research and missile development, and his unwavering commitment to scientific progress have earned him great laurels and prestige. He continues to inspire generations with his vision, leadership, and dedication to harnessing the power of science and technology for national development.
+    </p>
+    </div>
+</body>
+</html>
